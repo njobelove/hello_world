@@ -1,10 +1,9 @@
 body {
-    background-color: blueviolet;
-    color : white;
-
+    background-color: rgb(63, 31, 93);
+    color : rgb(255, 7, 243);
+     text-align: center;
 }
-
-form {
-    border: 2px;
-
+h1 {
+    font-size: 50px;
+    text-decoration: underline;
 }
