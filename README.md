@@ -66,7 +66,7 @@ Clone this repository to your desired folder:
 
 sh
   cd my-folder
-  git clone https://github.com/njobelove/hello_world.git Academy.git
+  git clone https://github.com/njobelove/hello_world.git 
 
 
 ### Install
@@ -104,7 +104,7 @@ sh
 
 👤 *Njobe Loveline*
 
-- GitHub: [@njobelove]https://github.com/njobelove/hello_world.git Academy.git)
+- GitHub: [@njobelove](https://github.com/njobelove/hello_world.git )
 
  FUTURE FEATURES 
 
@@ -123,4 +123,4 @@ I will like to thank Codegisoft Academy and all the students i've collaborated w
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
