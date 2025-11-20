@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(63, 31, 93);
+    color : rgb(255, 7, 243);
+     text-align: center;
+}
+h1 {
+    font-size: 50px;
+    text-decoration: underline;
+}
